@@ -3,5 +3,5 @@ export const printConfig = () => {
 };
 
 export const urls = {
-  GOOGLE: 'https://google.com',
+  GOOGLE: 'https://www.google.com',
 };
