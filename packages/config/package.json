@@ -1,7 +1,8 @@
 {
   "name": "@demo/config",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index",
+  "types": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
