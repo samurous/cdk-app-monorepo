@@ -7,7 +7,8 @@
   "workspaces": [
     "packages/config",
     "packages/frontend",
-    "packages/foo"
+    "packages/foo",
+    "packages/cdk"
   ],
   "devDependencies": {
     "eslint-config-prettier": "^9.0.0",
