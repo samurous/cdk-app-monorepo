@@ -1,5 +1,5 @@
 export const printConfig = () => {
-  console.log('the configs.');
+  console.log('the configs!');
 };
 
 export const urls = {
